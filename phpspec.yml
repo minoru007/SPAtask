@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SPAtask
+        psr4_prefix: SPAtask
+        src_path: app
